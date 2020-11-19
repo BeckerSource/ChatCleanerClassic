@@ -16,6 +16,6 @@ Changes in this repo add the additional features:
 
 > Fixed a lua error caused from the backdrop frame calling a template that doesn't exist ("BackdropTemplate").
 
-> Increased size of main BadBoy frame to compensate for new options.
+> Increased size of main BadBoy frame to compensate for new CCleaner options.
 
 > Moved saved variables to per-character, rather than account-wide.
