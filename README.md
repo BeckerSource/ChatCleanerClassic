@@ -15,3 +15,7 @@ Changes in this repo add the additional features:
 > Added "Clear All" buttons for both keyword lists.
 
 > Fixed a lua error caused from the backdrop frame calling a template that doesn't exist ("BackdropTemplate").
+
+> Increased size of main BadBoy frame to compensate for new options.
+
+> Moved saved variables to per-character, rather than account-wide.
