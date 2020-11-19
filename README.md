@@ -1,4 +1,4 @@
-This is a modified version of BadBoy CCleaner for WoW Classic:
+This is a modified version of BadBoy CCleaner for WoW Classic: _
 https://www.curseforge.com/wow/addons/bad-boy/files
 https://www.curseforge.com/wow/addons/badboy_ccleaner
 
