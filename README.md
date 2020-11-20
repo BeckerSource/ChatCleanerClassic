@@ -1,7 +1,7 @@
 CCleanerClassic is a customizable chat filter for WoW Classic (based on the BadBoy CCleaner addon).
 
 This was created mainly for eliminating unwanted chat in channels like "LookingForGroup". \
-If affected channel names are not specified, filtering takes place on all channels, including say and yell chats.
+If affected channel names are not specified, filtering takes place on all channels plus say and yell chats.
 
 Use /ccc to open the options panel.
 
