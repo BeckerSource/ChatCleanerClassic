@@ -19,3 +19,5 @@ Features:
 This project was inspired by and includes code from the BadBoy CCleaner addon: \
 https://www.curseforge.com/wow/addons/bad-boy/files \
 https://www.curseforge.com/wow/addons/badboy_ccleaner
+
+NOTE: This addon is untested in retail.
