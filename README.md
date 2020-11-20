@@ -12,7 +12,7 @@ Features:
 
 > Specify channels by name to be affected by the filtering (example: LookingForGroup).
 
-> Optional "required" keywords which forces a chat to have at least one keyword in the list to be present to be shown.
+> Optional "required" keywords which forces a chat to have at least one keyword from the list to be shown.
 
 > Main clean keywords list.
 
