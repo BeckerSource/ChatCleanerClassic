@@ -1,7 +1,6 @@
 CCleanerClassic is a customizable chat filter for WoW Classic (based on the BadBoy CCleaner addon).
 
 This was created mainly for eliminating unwanted chat in channels like "LookingForGroup". \
-If affected channel names are not specified, filtering takes place on all channels plus say and yell chats.
 
 Use /ccc to open the options panel.
 
@@ -15,6 +14,12 @@ Features:
 > Optional "required" keywords which forces a chat to have at least one keyword from the list to be shown.
 
 > Main clean keywords list.
+
+> Option to filter "say" chats.
+
+> Option to filter "yell" chats.
+
+> Allows for exporting and importing of settings between chars on the same accounts
 
 This project was inspired by and includes code from the BadBoy CCleaner addon: \
 https://www.curseforge.com/wow/addons/bad-boy/files \
