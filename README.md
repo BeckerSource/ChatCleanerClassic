@@ -11,13 +11,13 @@ Features:
 
 > Specify channels by name to be affected by the filtering (example: LookingForGroup).
 
-> Optional "required" keywords which forces a chat to have at least one keyword from the list to be shown.
-
-> Main clean keywords list.
-
 > Option to filter "say" chats.
 
 > Option to filter "yell" chats.
+
+> Optional "required" keywords which forces a chat to have at least one keyword from the list to be shown.
+
+> Main clean keywords list.
 
 > Allows for exporting and importing of settings between chars on the same accounts
 
