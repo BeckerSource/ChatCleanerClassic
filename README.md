@@ -2,7 +2,7 @@ CCleanerClassic is a customizable chat filter for WoW Classic (based on the BadB
 
 This was created mainly for eliminating unwanted chat in channels like "LookingForGroup". \
 
-Use /ccc to open the options panel.
+Use /ccleanerclassic or /ccc to open the options panel.
 
 Features:
 > Option to filter or allow "friendly" players (friends, guildies, etc).
