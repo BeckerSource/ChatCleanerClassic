@@ -4,6 +4,8 @@ This was created mainly for eliminating unwanted chat in channels like "LookingF
 
 Use /chatcleanerclassic or /ccc to open the options panel.
 
+This addon is untested in retail and TBC.
+
 Features:
 > Option to filter or allow "friendly" players (friends, guildies, etc).
 
@@ -19,11 +21,9 @@ Features:
 
 > Main clean keywords list.
 
-> Allows for exporting and importing of settings between chars on the same accounts
+> Allows for exporting and importing of settings between chars on the same account.
 
 1.4.0 Fixes:
 > Fixed bug when setting channels.  Credit to xii_brad.
 
 > Changed display name from CCleanerClassic to ChatCleanerClassic.
-
-NOTE: This addon is untested in retail and TBC.
